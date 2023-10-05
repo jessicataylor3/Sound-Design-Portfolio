@@ -7,3 +7,5 @@ The programming, design, and production was done by game design student Alex Jam
 The Apocalypse Approaches: This turn-based RPG was created by members of the NC State Game Design club for the 2023 Dot Game Jam. I created the battle music that loops throughout gameplay using Logic Pro X.
 
 VGM Examples: This is a YouTube playlist consisting of different video game music I've composed and produced. Some have been used in games, and some were made during my internship with professional VGM composer Tyler Mire.
+
+Personal Music: This is a YouTube playlist consisting of songs I wrote, recorded, and produced.
