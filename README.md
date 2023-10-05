@@ -8,4 +8,6 @@ The Apocalypse Approaches: This turn-based RPG was created by members of the NC 
 
 VGM Examples: This is a YouTube playlist consisting of different video game music I've composed and produced. Some have been used in games, and some were made during my internship with professional VGM composer Tyler Mire.
 
-Personal Music: This is a YouTube playlist consisting of songs I wrote, recorded, and produced. These projects demonstrate my proficiency in creating unique and cohesive soundscapes, as well as recording and manipulating high-quality audio. I released these projects onto streaming services, and so far have accrued over 100,000 streams.
+Personal Music: This is a YouTube playlist consisting of songs I wrote, recorded, and produced. These projects demonstrate my proficiency in creating unique and cohesive soundscapes, as well as recording and manipulating high-quality audio.
+
+Communications Portfolio: This is a YouTube playlist that includes videos I helped create for the Honors College Communications Team at George Mason University. I was involved in recording and editing the audio and video, as well as creating the backing tracks.
